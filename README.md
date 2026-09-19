@@ -1,4 +1,4 @@
-# Hi, I'm Tilak R Mohanta
+# Hi, I'm Tilak Mohanta
 
 Technical Lead - Product Engineering focused on building scalable SaaS and FinTech systems with Node.js, React, microservices, and thoughtful engineering leadership.
 
